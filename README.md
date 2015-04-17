@@ -1,4 +1,4 @@
-# dihaw-spring-tiles
+# dihaw-spring-jdbc
 Maven Spring MVC Application
 
 ## Technology used:
